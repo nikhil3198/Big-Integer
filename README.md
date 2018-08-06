@@ -1,6 +1,6 @@
-#Big Integer
+#Big-Integer
 
-Problem Definition:
+#Problem Definition:
 Develop a C-library of an integer of arbitrary length, let us call it as “intal” in short. 
 The functionalities to be implemented in the library are declared in the header file.
 
